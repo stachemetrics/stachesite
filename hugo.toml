@@ -1,0 +1,69 @@
+baseURL = 'https://mmetrics.ai/'
+languageCode = 'en-us'
+title = 'MMetrics.ai'
+theme = 'terminal'
+
+# Pagination
+[pagination]
+  pagerSize = 5
+
+[params]
+  # Theme colors
+  themeColor = "orange"
+
+  # If set to true, will fill background color with theme color
+  fullWidthTheme = false
+
+  # Center the content
+  centerTheme = true
+
+  # If set to true, will enable static favicon
+  showMenuItems = 3
+
+  # Show the last modified date
+  showLastUpdated = false
+
+  # Site description for SEO
+  description = "MMetrics.ai - AI-powered metrics and analytics insights"
+
+  # Author
+  author = "MMetrics Team"
+
+  # Content settings
+  contentTypeName = "posts"
+
+  # Footer copyright
+  footerCopyright = ' MMetrics.ai'
+
+  # Custom footer
+  customFooter = ''
+
+[params.logo]
+  logoText = "mmetrics.ai"
+  logoHomeLink = "/"
+
+# Main menu
+[[menu.main]]
+  identifier = "blog"
+  name = "Blog"
+  url = "/posts/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 2
+
+[[menu.main]]
+  identifier = "contact"
+  name = "Contact"
+  url = "/contact/"
+  weight = 3
+
+# Enable syntax highlighting
+[markup]
+  [markup.highlight]
+    style = "dracula"
+    lineNos = false
+    lineNumbersInTable = true
