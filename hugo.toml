@@ -61,8 +61,10 @@ theme = 'terminal'
   url = "/contact/"
   weight = 3
 
-# Enable syntax highlighting
+# Enable syntax highlighting and markdown rendering
 [markup]
+  [markup.goldmark.renderer]
+    unsafe = true
   [markup.highlight]
     style = "dracula"
     lineNos = false
