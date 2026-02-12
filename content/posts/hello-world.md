@@ -1,24 +1,40 @@
 ---
-title: "Hello World"
+title: "42 Prototypes: Building AI in Public"
 date: 2026-02-05
 draft: false
-tags: ["announcement"]
+tags: ["prototypes", "announcement", "AI"]
 ---
 
-Welcome to the MMetrics.ai blog!
+I'm Geoff, and I'm going to build 42 AI prototypes in public over 2026.
 
-This is where we'll share updates, insights, and technical deep-dives about our work in AI-powered metrics and analytics.
-
-Stay tuned for more content.
+Not slide decks. Not strategy documents. Actual working things — shipped, written up, and shared here for anyone to poke at.
 
 <!--more-->
 
-## What's Coming
+## Why 42?
 
-We're excited to share:
+Partly because it's the answer to life, the universe, and everything. Mostly because it's an ambitious enough number to keep me honest. One prototype roughly every week-and-a-bit, for a full year.
 
-- Product updates and feature announcements
-- Technical tutorials and guides
-- Industry insights and analysis
+## Why build in public?
 
-Check back soon for our first real post!
+I've spent years at Atlassian and Salesforce watching the gap between what AI *could* do and what businesses *actually* get out of it. The gap isn't the technology — it's the execution. The last mile. The part where someone has to make it stick inside a real workflow with real people.
+
+So instead of writing blog posts about how AI is changing everything (you've read enough of those), I figured I'd just... build things. And show my working.
+
+Some will be useful. Some will be weird. A few will probably be outright failures — and those might be the most interesting ones to write about.
+
+## What to expect
+
+Each prototype will get a write-up covering:
+
+- **What it does** — the problem it's solving and for who
+- **How it works** — the technical bits, kept readable
+- **What I learned** — the honest version, including what went wrong
+
+The prototypes will lean toward the kinds of problems I see with clients at [Moustache Metrics](/) — small and mid-sized businesses trying to get AI working without a dedicated data team. Think automating the spreadsheet everyone hates, not building the next GPT.
+
+## Follow along
+
+If you're interested, the best way to keep up is to check back here. I'll also be pushing code to [GitHub](https://github.com/stachemetrics) as I go.
+
+First prototype incoming soon. Let's see how this goes.

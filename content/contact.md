@@ -4,15 +4,9 @@ date: 2026-02-05
 draft: false
 ---
 
-# Get in Touch
+# Let's talk
 
-Interested in learning more about MMetrics.ai? We'd love to hear from you.
+Got a process that's driving your team up the wall? Curious whether AI can actually help? Just want to chat about moustaches? I'm all ears.
 
-## Reach Out
-
-- **Email**: hello@mmetrics.ai
+- **Email**: [geoff@mmetrics.ai](mailto:geoff@mmetrics.ai)
 - **GitHub**: [github.com/stachemetrics](https://github.com/stachemetrics)
-
----
-
-*Contact form coming soon.*
