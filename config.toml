@@ -8,9 +8,6 @@ theme = 'terminal'
   pagerSize = 5
 
 [params]
-  # Theme colors
-  themeColor = "orange"
-
   # If set to true, will fill background color with theme color
   fullWidthTheme = false
 
