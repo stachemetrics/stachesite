@@ -20,7 +20,7 @@ Partly because it's the answer to life, the universe, and everything 🐬. Mostl
 I've spent years at Atlassian and Salesforce watching the gap between what AI *could* do and what businesses *actually* get out of it. 
 The gap isn't the technology — it's the execution. The last mile. The part where someone has to make it stick inside a real workflow with real people.
 
-So instead of writing blog posts about how AI is changing everything (you've read enough of those), I figured I'd just... build things. And show my working.
+So instead of writing blog posts about how AI is changing everything (you've read enough of those), I figured I'd just... build things. Explore what makes them sticky or not. And show my working.
 
 Some will be useful. Some will be weird. A few will probably be outright failures - and those might be the most interesting ones to write about.
 
