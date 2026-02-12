@@ -1,2 +1,2 @@
-#stachesite
-Light-weight website
+# stachesite
+Light-weight website, built with hugo
