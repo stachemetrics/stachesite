@@ -4,15 +4,15 @@ date: 2026-02-05
 draft: false
 ---
 
-# G'day, I'm Geoff
+# G'day, I'm Geoff.
 
 I'm the person behind Moustache Metrics — a boutique AI practice based in Sydney that helps small and mid-sized businesses get AI actually working.
 
-Not "AI strategy" on a slide deck. Not a proof of concept that lives in a folder nobody opens. I mean the real thing: finding the process that's eating your team alive, building something that fixes it, and getting it live.
+I don't do "AI strategy" slide decks. I'm not big on "proof of concepts" that live in a folder nobody opens. I mean the real thing: finding the process that's eating your team alive, building something that fixes it, and getting it live.
 
 ## The short version
 
-I spent years at Atlassian and Salesforce, picked up an MBA along the way, and eventually realised the stuff I enjoyed most was the hands-on fixing — not the meetings about the meetings. These days I split my time between AI safety work in the nuclear industry and helping businesses stop drowning in spreadsheets.
+I spent years at Atlassian and Salesforce, picked up an MBA along the way, and eventually realised the stuff I enjoyed most was the hands-on fixing — not the meetings about the meetings. These days I split my time between AI innovation work in the nuclear industry and helping businesses stop drowning in spreadsheets.
 
 ## What Moustache Metrics does
 
