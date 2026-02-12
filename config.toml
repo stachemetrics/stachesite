@@ -40,7 +40,6 @@ theme = 'terminal'
 
 [params.logo]
   logoText = "mmetrics.ai"
-  logoHomeLink = "/"
 
 # Main menu
 [[menu.main]]
