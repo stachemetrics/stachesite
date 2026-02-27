@@ -5,7 +5,7 @@ tags: ["prototypes", "collaboration", "AI"]
 draft: false
 ---
 
-I'm building 42 AI prototypes this year. Some are problems I've found myself — like [agent evaluations](/posts/snifftester/) and finding and bidding on tenders. But I've got slots for problems other people bring me. 🤝
+I'm building 42 AI prototypes this year. Some are problems I've found myself — like [agent evaluations](/posts/snifftester/) and [finding and bidding on tenders](/posts/tendertrawl). But I've got slots for problems other people bring me. 🤝
 
 <!--more-->
 
