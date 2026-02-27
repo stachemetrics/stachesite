@@ -28,4 +28,4 @@ Site runs at `http://localhost:1313`
 
 ## Deployment
 
-GitHub Pages (coming soon)
+GitHub Pages

@@ -80,8 +80,16 @@ Never say → Say instead:
 - [ ] Favicon set
 - [ ] Color hex codes finalized from logo
 
+## Hosting & DNS
+
+- **Registrar:** GoDaddy (domain registration only)
+- **DNS:** Migrating to Cloudflare (free tier) — GoDaddy DNS is slow and adds latency
+- **Hosting:** GitHub Pages via GitHub Actions
+- **CNAME:** configured for custom domain (mmetrics.ai)
+
 ## Planned Features
 
+- **Cloudflare DNS migration** — Switch nameservers from GoDaddy to Cloudflare for faster resolution
 - **llms.txt** — AI discoverability for Perplexity/ChatGPT/Gemini crawlers
 - **PyScript** — Interactive Python demos in blog posts (browser-based)
 - **GitHub Actions** — Automated deployment to GitHub Pages
