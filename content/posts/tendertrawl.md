@@ -1,6 +1,6 @@
 ---
 title: "Prototype #2: TenderTrawl"
-date: 2026-02-28
+date: 2026-02-27
 draft: false
 tags: ["42-26", "prototypes", "tenders", "AI", "gemini"]
 ---
