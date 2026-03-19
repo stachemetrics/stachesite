@@ -7,7 +7,7 @@ tags: ["42-26", "prototypes", "hair-colour", "AI", "gemini", "collaboration"]
 
 This one wasn't my spreadsheet. Matt Smith — professional colourist — came to me with a question: could AI reason about hair colour formulation well enough that a stylist would actually trust it during a consultation? We built AstroShade to find out.
 
-**[Try the demo](https://geoffpidcock--astroshade-web-dev.modal.run/)** | **[Source code](https://github.com/stachemetrics/astroshade)**
+**[Try the demo](https://geoffpidcock--astroshade-web.modal.run)** | **[Source code](https://github.com/stachemetrics/astroshade)**
 
 <!--more-->
 
